@@ -1,3 +1,6 @@
+
+console.log("init");
+
 module.exports = {
 
 
@@ -5,4 +8,4 @@ module.exports = {
         return 7;
     }
 
-};
+}
